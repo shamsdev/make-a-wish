@@ -206,7 +206,6 @@ if (substr($uri, 0, 1) === "@") {
         let post = $.post(action, {name: name.value, mail: mail.value});
         post.done(function (response) {
             if (response.toString() !== "err") {
-                alert(response.toString());
                 name.style.display = "none";
                 mail.style.display = "none";
                 const link = document.getElementById("link");
