@@ -144,10 +144,6 @@ form button {
     transition-duration: 0.25s;
 }
 
-form button:hover {
-    background-color: #c64394;
-}
-
 a:link {
     text-decoration: none;
     color: #f9f8ff;
