@@ -112,7 +112,7 @@ if (substr($uri, 0, 1) === "@") {
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Make A Wish To Me :)</title>
+    <title>Make A Wish For Me :)</title>
     <meta name=description
           content="Make a wish for your friend">
     <meta name=author content="Mohammad Shams">
